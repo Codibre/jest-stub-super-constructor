@@ -16,7 +16,7 @@ Just use it passing the class you want to stub the super on the constructor, lik
   const superStub = stubSuperConstructor(MyClass);
 ```
 
-And use the **superStub** the way you're used to, with any other spy.
+And use the **superStub** the way you're used to, as with any other spy.
 
 ## License
 

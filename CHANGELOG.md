@@ -1,28 +1,8 @@
-# Changelog
-  All notable changes to this project will be documented in this file.
 
-  The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
-  and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
-
-  ## Next Release
-
-
-
--v2.0.0
-
-- Updating empty project for new standards
-
--v1.0.3
-
-- Adequation of configurations and project for a lib example
-
--v1.0.2
-
-- Updating libraries
-
-
--v1.0.1
-  Removing unneeded dependencies
-
--v1.0.0
-  First release
+* 12b0aa4 readding scripts
+* ceaf67e preparing for publish
+* e42e48f fixing package name
+* fe33c05 fixing pipelines
+* ae9aa23 fixing readme
+* e615fc1 First version
+* b1ae7b0 Initial commit

@@ -11,6 +11,11 @@ afterEach(() => {
 	cleanups = [];
 });
 
+/**
+ * Stub the super call inside a constructor
+ * @param cls The class you want to stub the super on the constructor
+ * @returns
+ */
 export function stubSuperConstructor<T>(cls: T) {
 	const prototypeBackup = Object.getPrototypeOf(cls);
 	if (!prototypeBackup || prototypeBackup.name === '') {
