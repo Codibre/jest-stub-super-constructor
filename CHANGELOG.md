@@ -1,4 +1,5 @@
 
+* 274669e Fixing dependencies and adding jsdoc
 * 12b0aa4 readding scripts
 * ceaf67e preparing for publish
 * e42e48f fixing package name
