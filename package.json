@@ -2,7 +2,6 @@
   "name": "jest-stub-super-constructor",
   "description": "Easily stub the super call from a constructor using jest",
   "version": "0.0.0",
-  "private": true,
   "author": {
     "name": "Thiago O Santos <tos.oliveira@gmail.com>"
   },
