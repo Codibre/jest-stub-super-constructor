@@ -65,7 +65,7 @@
   "bugs": {
     "url": "https://github.com/codibre/jest-stub-super-constructor/issues"
   },
-  "keywords": [],
+  "keywords": ["mock", "stub", "spy", "jest", "super", "constructor"],
   "license": "MIT",
   "peerDependencies": {
     "@types/jest": "*",
