@@ -1,7 +1,7 @@
 {
   "name": "jest-stub-super-constructor",
   "description": "Easily stub the super call from a constructor using jest",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "author": {
     "name": "Thiago O Santos <tos.oliveira@gmail.com>"
   },
@@ -65,7 +65,14 @@
   "bugs": {
     "url": "https://github.com/codibre/jest-stub-super-constructor/issues"
   },
-  "keywords": ["mock", "stub", "spy", "jest", "super", "constructor"],
+  "keywords": [
+    "mock",
+    "stub",
+    "spy",
+    "jest",
+    "super",
+    "constructor"
+  ],
   "license": "MIT",
   "peerDependencies": {
     "@types/jest": "*",

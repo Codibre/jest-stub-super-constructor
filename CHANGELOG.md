@@ -1,4 +1,8 @@
 
+## 0.3.0
+* 3a896c7 adding keywords
+## v0.2.0
+* 863d901 0.2.0
 * 274669e Fixing dependencies and adding jsdoc
 * 12b0aa4 readding scripts
 * ceaf67e preparing for publish
