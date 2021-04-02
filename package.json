@@ -1,5 +1,5 @@
 {
-  "name": "jest-super-stub-contructor",
+  "name": "jest-stub-super-constructor",
   "description": "Easily stub the super call from a constructor using jest",
   "version": "0.0.0",
   "private": true,
@@ -60,11 +60,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/codibre/jest-super-stub-contructor.git"
+    "url": "https://github.com/codibre/jest-stub-super-constructor.git"
   },
-  "homepage": "https://github.com/codibre/jest-super-stub-contructor#readme",
+  "homepage": "https://github.com/codibre/jest-stub-super-constructor#readme",
   "bugs": {
-    "url": "https://github.com/codibre/jest-super-stub-contructor/issues"
+    "url": "https://github.com/codibre/jest-stub-super-constructor/issues"
   },
   "keywords": [],
   "license": "MIT",
